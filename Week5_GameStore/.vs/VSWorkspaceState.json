@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DAL",
+    "\\DAL\\Model",
+    "\\Entities",
+    "\\GameStore",
+    "\\GameStore\\Controllers"
+  ],
+  "SelectedNode": "\\GameStore\\Controllers\\AuthController.cs",
+  "PreviewInSolutionExplorer": false
+}

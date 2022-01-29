@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c748bbab-4781-4d30-92c9-33d3f847043f": {
+      "ProjectGuid": "c748bbab-4781-4d30-92c9-33d3f847043f",
+      "DisplayName": "Gamestore",
+      "ColorIndex": 0
+    },
+    "cb2f6feb-d2c4-4fdc-bb37-10e038251b53": {
+      "ProjectGuid": "cb2f6feb-d2c4-4fdc-bb37-10e038251b53",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "a2a56443-66d5-46d7-9943-f90b87f5ef0d": {
+      "ProjectGuid": "a2a56443-66d5-46d7-9943-f90b87f5ef0d",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

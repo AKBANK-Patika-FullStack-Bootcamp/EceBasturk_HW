@@ -1,0 +1,17 @@
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\bin\Debug\net6.0\Entities.dll
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\bin\Debug\net6.0\ref\Entities.dll
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\bin\Debug\net6.0\Entities.pdb
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\bin\Debug\net6.0\DAL.dll
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\bin\Debug\net6.0\DAL.pdb
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\Entities.dll
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\Entities.pdb
+D:\AkbankBootcamp\Week3_GameStore\Gamestore\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
