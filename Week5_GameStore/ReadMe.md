@@ -1,7 +1,7 @@
 # Week 5
 ## Authorization Operations
 
-**Please check the [AuthorOperations](..) and [AuthorConttroller](..) clasess.**
+**Please check the [AuthorOperations](https://github.com/AKBANK-Patika-FullStack-Bootcamp/EceBasturk_HW/blob/main/Week5_GameStore/GameStore/Controllers/AuthOperations.cs) and [AuthorConttroller](https://github.com/AKBANK-Patika-FullStack-Bootcamp/EceBasturk_HW/blob/main/Week5_GameStore/GameStore/Controllers/AuthController.cs) clasess.**
 
 **1)** Create login and hashing.
 <img src="images/create.png">
