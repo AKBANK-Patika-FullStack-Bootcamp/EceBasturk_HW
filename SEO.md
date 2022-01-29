@@ -2,64 +2,64 @@
 
 # <p text align = center>SEO (Search Engine Optimization)</p>
 
-**1) SEO NEDİR?**
+**1) SEO NEDÄ°R?**
 
-- SEO, web sitelerimizin arama motorlarında daha çok görünürlülük elde etmesini sağlamak için yapılan çalışmalar bütünüdür.
+- SEO, web sitelerimizin arama motorlarÄ±nda daha Ã§ok gÃ¶rÃ¼nÃ¼rlÃ¼lÃ¼k elde etmesini saÄŸlamak iÃ§in yapÄ±lan Ã§alÄ±ÅŸmalar bÃ¼tÃ¼nÃ¼dÃ¼r.
 
-- SEO, sayfaları organik trafik yoluyla daha iyi sıralamak için optimize etmeye odaklanır. Bu, Google, Yandex veya Bing gibi arama motorlarından gelen site ziyaretçilerini ifade eder.
+- SEO, sayfalarÄ± organik trafik yoluyla daha iyi sÄ±ralamak iÃ§in optimize etmeye odaklanÄ±r. Bu, Google, Yandex veya Bing gibi arama motorlarÄ±ndan gelen site ziyaretÃ§ilerini ifade eder.
 
-- Google botlarının rahat gezindiği ve kullanıcıların uzun zaman geçirdiği siteler kalite kavramına örnektir. Arama motorları web sitelerine, bazı kurallar dahilinde, kalite puanları vermektedir.
+- Google botlarÄ±nÄ±n rahat gezindiÄŸi ve kullanÄ±cÄ±larÄ±n uzun zaman geÃ§irdiÄŸi siteler kalite kavramÄ±na Ã¶rnektir. Arama motorlarÄ± web sitelerine, bazÄ± kurallar dahilinde, kalite puanlarÄ± vermektedir.
 
 ---
 
 
-**2) SEO'DA NELERE DİKKAT ETMELİ?**
+**2) SEO'DA NELERE DÄ°KKAT ETMELÄ°?**
 
-SEO çalışmaları yapılırken üzerinde durulan 5 çeşit sınıflandırılmadan bahsedeceğim.
+SEO Ã§alÄ±ÅŸmalarÄ± yapÄ±lÄ±rken Ã¼zerinde durulan 5 Ã§eÅŸit sÄ±nÄ±flandÄ±rÄ±lmadan bahsedeceÄŸim.
 
-- **On-Paging SEO (Site İçi)**
+- **On-Paging SEO (Site Ä°Ã§i)**
     
     - Anahtar kelime optimizasyonu  
-    - Sayfa Başlık etiketleri (Title Tag) 
-    - Başlık etiketleri (Header Tags)  
-    - Görsel alt metni.
-    - Meta Açıklaması. Sayfa başlığı ve URL ile birlikte snippet’ler olarak görünen SERP’lerdeki sayfaların kısa açıklamasını ifade eder. Meta açıklamalar, anahtar kelimeleri içerir ve sayfanın sağladığı bilgileri doğru bir şekilde tanımlar.
+    - Sayfa BaÅŸlÄ±k etiketleri (Title Tag) 
+    - BaÅŸlÄ±k etiketleri (Header Tags)  
+    - GÃ¶rsel alt metni.
+    - Meta AÃ§Ä±klamasÄ±. Sayfa baÅŸlÄ±ÄŸÄ± ve URL ile birlikte snippetâ€™ler olarak gÃ¶rÃ¼nen SERPâ€™lerdeki sayfalarÄ±n kÄ±sa aÃ§Ä±klamasÄ±nÄ± ifade eder. Meta aÃ§Ä±klamalar, anahtar kelimeleri iÃ§erir ve sayfanÄ±n saÄŸladÄ±ÄŸÄ± bilgileri doÄŸru bir ÅŸekilde tanÄ±mlar.
 
-- **Off-Paging SEO (Site dışı)**
+- **Off-Paging SEO (Site dÄ±ÅŸÄ±)**
  
-   - Bağlantı kurma, sosyal yardım pazarlaması ve misafir ilanı gibi web sitenizin dışındaki faaliyetleri içerir.
-   -  ==Backlink==, bir web sitesinin diğer bir siteye verdiği linktir.
+   - BaÄŸlantÄ± kurma, sosyal yardÄ±m pazarlamasÄ± ve misafir ilanÄ± gibi web sitenizin dÄ±ÅŸÄ±ndaki faaliyetleri iÃ§erir.
+   -  ==Backlink==, bir web sitesinin diÄŸer bir siteye verdiÄŸi linktir.
    - Forumlar
 
 - **Technical SEO**
   
-  - Web sitenizin hızını, uyumluluğunu, güvenliğini ve kullanım kolaylığını optimize etmek için SEO teknik yönlerini içerir.
-  - Sayfa yükleme hızı
-  - SSL sertifikası. SSL sertifikasına sahip bir web sitesi, URL’sinde HTTPS‘yi etkinleştirir.
-  - Hızlandırılmış Mobil Sayfalar (AMP)
-  - XML site haritaları
+  - Web sitenizin hÄ±zÄ±nÄ±, uyumluluÄŸunu, gÃ¼venliÄŸini ve kullanÄ±m kolaylÄ±ÄŸÄ±nÄ± optimize etmek iÃ§in SEO teknik yÃ¶nlerini iÃ§erir.
+  - Sayfa yÃ¼kleme hÄ±zÄ±
+  - SSL sertifikasÄ±. SSL sertifikasÄ±na sahip bir web sitesi, URLâ€™sinde HTTPSâ€˜yi etkinleÅŸtirir.
+  - HÄ±zlandÄ±rÄ±lmÄ±ÅŸ Mobil Sayfalar (AMP)
+  - XML site haritalarÄ±
 
 - **Locale SEO**
 
-  - Yerel SEO, yerel işletmelerin arama sonuçlarındaki görünürlüğünü artırma faaliyetidir. Mesela Ankaradaki Balık Restoranları araması
+  - Yerel SEO, yerel iÅŸletmelerin arama sonuÃ§larÄ±ndaki gÃ¶rÃ¼nÃ¼rlÃ¼ÄŸÃ¼nÃ¼ artÄ±rma faaliyetidir. Mesela Ankaradaki BalÄ±k RestoranlarÄ± aramasÄ±
 
  - **Black Hat SEO**
 
-   - Çeşitli onaylanmayan yöntemlerle arama motorunun çalışmasını manipüle ederek bir sitenin ilgili veya hedef anahtar kelimede öne çıkmasını sağlamaya çalışma işlemidir. Yöntemlerden bazıları aşağıdaki şekilde sınıflandırılabilir.
-   - Anahtar kelime yığınları
-   - Çıkış sayfaları
-   - Bilgisayar tarafından otomatik yazılan sayfalar
+   - Ã‡eÅŸitli onaylanmayan yÃ¶ntemlerle arama motorunun Ã§alÄ±ÅŸmasÄ±nÄ± manipÃ¼le ederek bir sitenin ilgili veya hedef anahtar kelimede Ã¶ne Ã§Ä±kmasÄ±nÄ± saÄŸlamaya Ã§alÄ±ÅŸma iÅŸlemidir. YÃ¶ntemlerden bazÄ±larÄ± aÅŸaÄŸÄ±daki ÅŸekilde sÄ±nÄ±flandÄ±rÄ±labilir.
+   - Anahtar kelime yÄ±ÄŸÄ±nlarÄ±
+   - Ã‡Ä±kÄ±ÅŸ sayfalarÄ±
+   - Bilgisayar tarafÄ±ndan otomatik yazÄ±lan sayfalar
 
    ---
-**3)SEO Nasıl Uygulanır?**
+**3)SEO NasÄ±l UygulanÄ±r?**
 
-Google ve diğer arama motorları, kullanıcı sorgularını yanıtlamak için ilgili bilgileri toplamak, düzenlemek ve görüntülemek için vardır. SEO yapmak için, aşağıdakiler de dahil olmak üzere üç ana süreçten geçerler:
+Google ve diÄŸer arama motorlarÄ±, kullanÄ±cÄ± sorgularÄ±nÄ± yanÄ±tlamak iÃ§in ilgili bilgileri toplamak, dÃ¼zenlemek ve gÃ¶rÃ¼ntÃ¼lemek iÃ§in vardÄ±r. SEO yapmak iÃ§in, aÅŸaÄŸÄ±dakiler de dahil olmak Ã¼zere Ã¼Ã§ ana sÃ¼reÃ§ten geÃ§erler:
 
-==Crawling==, Arama motorları, internette güncellenmiş içeriği bulmak için crawlers, bots veya spiders olarak da bilinen bot web tarayıcı ekibine güvenir. Web tarayıcıları, bir sayfayı dizine eklemek için gereken bilgileri keşfetmeye ve toplamaya yardımcı olur.
+*Crawling* , Arama motorlarÄ±, internette gÃ¼ncellenmiÅŸ iÃ§eriÄŸi bulmak iÃ§in crawlers, bots veya spiders olarak da bilinen bot web tarayÄ±cÄ± ekibine gÃ¼venir. Web tarayÄ±cÄ±larÄ±, bir sayfayÄ± dizine eklemek iÃ§in gereken bilgileri keÅŸfetmeye ve toplamaya yardÄ±mcÄ± olur.
 
-==Endeksleme==, Arama motorlarının toplanan web sayfalarını sakladığı ve düzenlediği bir süreci ifade eder. Web tarayıcıları bir sitede anahtar kelimeler ve yeni içerik gibi bilgiler bulduklarında, web sayfasını arama dizinine eklerler. Kullanıcılar ilgili bilgileri aradıklarında, arama motoru dizine eklenen web sitesini getirir.
+*Endeksleme* , Arama motorlarÄ±nÄ±n toplanan web sayfalarÄ±nÄ± sakladÄ±ÄŸÄ± ve dÃ¼zenlediÄŸi bir sÃ¼reci ifade eder. Web tarayÄ±cÄ±larÄ± bir sitede anahtar kelimeler ve yeni iÃ§erik gibi bilgiler bulduklarÄ±nda, web sayfasÄ±nÄ± arama dizinine eklerler. KullanÄ±cÄ±lar ilgili bilgileri aradÄ±klarÄ±nda, arama motoru dizine eklenen web sitesini getirir.
 
-==Sıralama==, Arama dizinindeki web sayfaları, arama sonuçlarında en alakalı içerikten en az alakalı içeriğe kadar görüntülenecektir.
+*SÄ±ralama* , Arama dizinindeki web sayfalarÄ±, arama sonuÃ§larÄ±nda en alakalÄ± iÃ§erikten en az alakalÄ± iÃ§eriÄŸe kadar gÃ¶rÃ¼ntÃ¼lenecektir.
 
 ---
 <img src = "seo3.jpg">
