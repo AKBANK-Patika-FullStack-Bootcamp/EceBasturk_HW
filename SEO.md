@@ -51,17 +51,7 @@ SEO çalışmaları yapılırken üzerinde durulan 5 çeşit sınıflandırılma
    - Bilgisayar tarafından otomatik yazılan sayfalar
 
    ---
-**3)SEO Nasıl Uygulanır?**
 
-Google ve diğer arama motorları, kullanıcı sorgularını yanıtlamak için ilgili bilgileri toplamak, düzenlemek ve görüntülemek için vardır. SEO yapmak için, aşağıdakiler de dahil olmak üzere üç ana süreçten geçerler:
-
-*Crawling* , Arama motorları, internette güncellenmiş içeriği bulmak için crawlers, bots veya spiders olarak da bilinen bot web tarayıcı ekibine güvenir. Web tarayıcıları, bir sayfayı dizine eklemek için gereken bilgileri keşfetmeye ve toplamaya yardımcı olur.
-
-*Endeksleme* , Arama motorlarının toplanan web sayfalarını sakladığı ve düzenlediği bir süreci ifade eder. Web tarayıcıları bir sitede anahtar kelimeler ve yeni içerik gibi bilgiler bulduklarında, web sayfasını arama dizinine eklerler. Kullanıcılar ilgili bilgileri aradıklarında, arama motoru dizine eklenen web sitesini getirir.
-
-*Sıralama* , Arama dizinindeki web sayfaları, arama sonuçlarında en alakalı içerikten en az alakalı içeriğe kadar görüntülenecektir.
-
----
 <img src = "seo3.jpg">
 
 [KAYNAK](https://www.hostinger.web.tr/rehberler/seo-nedir/#Sayfa_Disi_SEO_calismasi_nedir_Off-page_SEO_Nasil_Yapilir)
