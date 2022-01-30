@@ -28,7 +28,7 @@ SEO çalışmaları yapılırken üzerinde durulan 5 çeşit sınıflandırılma
 - **Off-Paging SEO (Site dışı)**
  
    - Bağlantı kurma, sosyal yardım pazarlaması ve misafir ilanı gibi web sitenizin dışındaki faaliyetleri içerir.
-   -  ==Backlink==, bir web sitesinin diğer bir siteye verdiği linktir.
+   -  *Backlink*, bir web sitesinin diğer bir siteye verdiği linktir.
    - Forumlar
 
 - **Technical SEO**
